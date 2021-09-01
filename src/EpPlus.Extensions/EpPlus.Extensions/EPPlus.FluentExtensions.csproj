@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <Description>A simple extensions for manipulating ExcelRange properties like, "Border", "Alignment", "Font", .... and the list is ongoing.
+
+In case of needing other extension methods please contact me.</Description>
+    <RepositoryUrl>https://github.com/faridprogrammer/EPPlus.FluentExtensions</RepositoryUrl>
+    <PackageTags>EPPlus, Fluent, Extensions</PackageTags>
+    <RepositoryType>Open Source</RepositoryType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EPPlus" Version="5.*" />
+  </ItemGroup>
+
+</Project>

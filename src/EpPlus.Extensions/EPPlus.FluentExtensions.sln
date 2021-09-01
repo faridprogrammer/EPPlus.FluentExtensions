@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EPPlus.FluentExtensions", "EpPlus.Extensions\EPPlus.FluentExtensions.csproj", "{2C7D1CA5-9274-4C60-9052-65432F0D451F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EPPlus.FluentExtensions.Tests", "EPPlus.FluentExtensions.Tests\EPPlus.FluentExtensions.Tests.csproj", "{14D270C5-E33D-4893-A0F4-22FE7F5528E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C7D1CA5-9274-4C60-9052-65432F0D451F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C7D1CA5-9274-4C60-9052-65432F0D451F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C7D1CA5-9274-4C60-9052-65432F0D451F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C7D1CA5-9274-4C60-9052-65432F0D451F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14D270C5-E33D-4893-A0F4-22FE7F5528E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14D270C5-E33D-4893-A0F4-22FE7F5528E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14D270C5-E33D-4893-A0F4-22FE7F5528E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14D270C5-E33D-4893-A0F4-22FE7F5528E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01DDBA5F-32C3-49E8-8445-8EE4499D0353}
+	EndGlobalSection
+EndGlobal
